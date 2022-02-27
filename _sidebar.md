@@ -3,8 +3,8 @@
 [Terms of Service](/terms.md)
 
 # Commands
-/add
-/remove
-/etc
-/placeholder
-/ignore
+/add\
+/remove\
+/etc\
+/placeholder\
+/ignore\
