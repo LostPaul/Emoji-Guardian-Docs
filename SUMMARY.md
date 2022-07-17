@@ -7,7 +7,6 @@
 
 ## Documentation
 
-* [What is Emoji Guardian](documentation/what-is-emoji-guardian.md)
 * [Emoji Guardian's Features](documentation/emoji-guardians-features.md)
 * [Commands](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)

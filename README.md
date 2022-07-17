@@ -9,7 +9,7 @@ Emoji Guardian is a Discord bot that aims at providing useful tools to manage al
 ## Getting started
 
 {% hint style="success" %}
-[Invite Emoji Guardian](https://discord.com/api/oauth2/authorize?client\_id=887939311373267005\&permissions=1610632320\&scope=bot%20applications.commands)
+[Invite Emoji Guardian by using the link https://emojiguardian.xyz/invite](https://discord.com/oauth2/authorize?client\_id=887939311373267005\&permissions=1610632320\&scope=bot%20applications.commands)
 {% endhint %}
 
 {% hint style="info" %}
