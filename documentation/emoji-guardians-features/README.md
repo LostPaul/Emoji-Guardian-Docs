@@ -1,6 +1,8 @@
 # Emoji Guardian's Features
 
-* Emoji lock to role
+``
+
+* Assign emojis to roles that only users who have at least one of the roles
 * Lock all emojis to a role with one command
 * Emojis change log (deleted, added, ....)
 * Emojis list with the id and emoji

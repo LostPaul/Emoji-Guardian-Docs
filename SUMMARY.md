@@ -7,7 +7,8 @@
 
 ## Documentation
 
-* [Emoji Guardian's Features](documentation/emoji-guardians-features.md)
+* [Emoji Guardian's Features](documentation/emoji-guardians-features/README.md)
+  * [Assign roles to emojis](documentation/emoji-guardians-features/assign-roles-to-emojis.md)
 * [Commands](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)
   * [Multiple emojis commands](documentation/commands/multiple-emojis-commands.md)
