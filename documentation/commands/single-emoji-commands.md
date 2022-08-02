@@ -20,7 +20,7 @@ Assign a role to an emoji that only the users who have at least one of the roles
 
 Remove roles from an emoji that the roles aren't able to use the emoji anymore but if the emoji has no roles anymore everyone is able to use the emoji
 
-## /emoji roles-reset
+## /emoji roles\_reset
 
 Remove all the roles from an emoji that everyone is able to use to use the emoji
 
