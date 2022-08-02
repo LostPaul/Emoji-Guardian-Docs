@@ -11,7 +11,7 @@ description: >-
 These are all Emoji Guardian commands for assigning a role to an emoji.\
 By clicking on the name of a command, you can get more information about it.
 
-* **/emoji lock**
+* ****[**/emoji lock**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-lock)****
 * **/emoji unlock**
 * **/emoji roles\_reset**
 * **/emojis lock\_multiple**
