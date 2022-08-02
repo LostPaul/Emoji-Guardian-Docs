@@ -1,0 +1,2 @@
+# Emojis/Sticker log
+

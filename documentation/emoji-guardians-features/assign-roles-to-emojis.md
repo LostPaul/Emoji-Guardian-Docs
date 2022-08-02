@@ -23,6 +23,6 @@ By clicking on the name of a command, you can get more information about it.
 
 ## Showcase
 
-![](<../../.gitbook/assets/Frame 1.png>)
+![](<../../.gitbook/assets/Frame 1 (4).png>)
 
 ![](<../../.gitbook/assets/Frame 2.png>)

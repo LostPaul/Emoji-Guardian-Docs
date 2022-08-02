@@ -8,7 +8,9 @@
 ## Documentation
 
 * [Emoji Guardian's Features](documentation/emoji-guardians-features/README.md)
+  * [Customizable emoji list](documentation/emoji-guardians-features/customizable-emoji-list.md)
   * [Assign roles to emojis](documentation/emoji-guardians-features/assign-roles-to-emojis.md)
+  * [Emojis/Sticker log](documentation/emoji-guardians-features/emojis-sticker-log.md)
 * [Commands](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)
   * [Multiple emojis commands](documentation/commands/multiple-emojis-commands.md)
