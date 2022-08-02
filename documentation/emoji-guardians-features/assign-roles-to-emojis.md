@@ -13,7 +13,7 @@ By clicking on the name of a command, you can get more information about it.
 
 * ****[**/emoji lock**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-lock)****
 * ****[**/emoji unlock**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-unlock)****
-* **/emoji roles\_reset**
+* ****[**/emoji roles\_reset**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-roles\_reset)****
 * **/emojis lock\_multiple**
 * **/emojis  unlock\_multiple**
 * **/emojis lock\_all**

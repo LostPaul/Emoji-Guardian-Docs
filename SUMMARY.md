@@ -11,7 +11,7 @@
   * [Customizable emoji list](documentation/emoji-guardians-features/customizable-emoji-list.md)
   * [Assign roles to emojis](documentation/emoji-guardians-features/assign-roles-to-emojis.md)
   * [Emojis/Sticker log](documentation/emoji-guardians-features/emojis-sticker-log.md)
-* [Commands](documentation/commands/README.md)
+* [Command list](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)
   * [Multiple emojis commands](documentation/commands/multiple-emojis-commands.md)
   * [Sticker commands](documentation/commands/sticker-commands.md)
