@@ -1,10 +1,12 @@
 ---
 description: >-
   Here can you find solutions for a few problems that may arise while using our
-  Bot.
+  Bot
 ---
 
 # Troubleshooting
+
+[If some of the solutions don't work for you report it in the Support server click here to join the server](https://discord.gg/EbBsuxVNYT)
 
 ### I can only see a dropdown menu and buttons when I use the help command and other messages are empty too
 

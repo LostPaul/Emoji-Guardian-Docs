@@ -6,8 +6,6 @@ description: >-
 
 # Customizable emoji list
 
-
-
 ## Commands
 
 * ****[**/emojis list**](../commands/commands-that-work-with-multiple-emojis.md#emojis-list)****
@@ -16,5 +14,5 @@ description: >-
 
 ## Showcase
 
-If some of the emojis don't work click here
+[If some of the emojis don't work click here](../../troubleshooting.md#emojis-dont-work-in-the-emoji-list)
 
