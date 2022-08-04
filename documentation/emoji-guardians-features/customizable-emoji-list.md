@@ -16,3 +16,10 @@ description: >-
 
 [If some of the emojis don't work click here](../../troubleshooting.md#emojis-dont-work-in-the-emoji-list)
 
+### All the options for the emoji list
+
+![](../../.gitbook/assets/Discord\_0ZZ1rCQcav.png)
+
+[If you like the Axolotl emojis and you want to use them you can click here to join the server they are from](https://discord.gg/HcJuMbsMy2)
+
+![](<../../.gitbook/assets/Frame 6 (1).png>)
