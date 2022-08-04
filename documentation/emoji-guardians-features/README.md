@@ -5,7 +5,7 @@ description: Click on the text to get more information about the feature
 # Emoji Guardian's Features
 
 * [Assign emojis to roles that only users who have at least one of the roles can use the emojis.](assign-roles-to-emojis.md)
-* Enable an exclusive log for logging actions related to emojis or stickers, as well as some bot actions.
+* [Enable an exclusive log for logging actions related to emojis or stickers, as well as some bot actions.](emojis-sticker-log.md)
 * [Create the most customizable emoji list, which you can also set to auto-update, which means it will be updated automatically when an emoji is deleted, created, or updated.](customizable-emoji-list.md)
 * Create stickers on your server by using emojis or with an image.
 * Preview how an emoji appears in dark and light mode.

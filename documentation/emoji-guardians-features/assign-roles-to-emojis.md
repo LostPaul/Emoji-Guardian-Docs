@@ -15,11 +15,11 @@ By clicking on the name of a command, you can get more information about it.
 * ****[**/emoji unlock**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-unlock)****
 * ****[**/emoji roles\_reset**](https://docs.emojiguardian.xyz/documentation/commands/single-emoji-commands#emoji-roles\_reset)****
 * ****[**/emojis lock\_multiple**](../commands/commands-that-work-with-multiple-emojis.md#emojis-lock\_multiple)****
-* **/emojis  unlock\_multiple**
-* **/emojis lock\_all**
-* **/emojis unlock\_all**
-* /**emojis roles\_reset**
-* **/emojis locked**
+* ****[**/emojis  unlock\_multiple**](../commands/commands-that-work-with-multiple-emojis.md#emojis-unlock\_multiple)****
+* ****[**/emojis lock\_all**](../commands/commands-that-work-with-multiple-emojis.md#emojis-lock\_all)****
+* ****[**/emojis unlock\_all**](../commands/commands-that-work-with-multiple-emojis.md#emojis-unlock\_all)****
+* [/**emojis roles\_reset**](../commands/commands-that-work-with-multiple-emojis.md#emojis-roles\_reset)****
+* ****[**/emojis locked**](../commands/commands-that-work-with-multiple-emojis.md#emojis-locked)****
 
 ## Showcase
 

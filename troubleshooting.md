@@ -68,3 +68,19 @@ Make sure that Emoji Guardian has manage emojis permissions before you continue 
 #### Emoji upload limit
 
 Discord currently has a ratelimit of _**50 emoji uploads per hour**_ in each server. Once you go over the limit, Emoji Guardian will get stuck for an hour before being able to finish uploading your emotes. Make sure not to go over this limit, or you'll run into this issue!
+
+## Emojis don't work in the Emoji List
+
+![](.gitbook/assets/Discord\_V82vnUyABC.png)
+
+#### If you have this issue it's because Emoji Guardian doesn't have the roles that are required to use the emojis
+
+#### To resolve this, you have to give Emoji Guardian the roles in order for the emojis to work
+
+#### If you don't want to do that you can set the exclude locked emojis option to true
+
+![](.gitbook/assets/Discord\_lnaQoPsyR9.png)
+
+### That's how the solution looks like
+
+![](<.gitbook/assets/Frame 5.png>)

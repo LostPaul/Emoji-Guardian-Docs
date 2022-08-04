@@ -44,6 +44,10 @@ See how many emojis have been created and other stats
 
 [Create the most customizable emoji list possible with a public bot click here to get more information about the emoji list](../emoji-guardians-features/customizable-emoji-list.md)
 
+## /emojis list\_category
+
+Create a emoji list with a title and emojis that you can select
+
 ## /emojis list\_auto\_update\_remove
 
 Disable the automatically update of the emoji list
