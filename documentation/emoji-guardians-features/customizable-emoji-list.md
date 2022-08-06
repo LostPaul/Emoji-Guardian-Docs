@@ -22,4 +22,6 @@ description: >-
 
 [If you like the Axolotl emojis and you want to use them you can click here to join the server they are from](https://discord.gg/HcJuMbsMy2)
 
+You can't use emojis from other servers on that Emoji Guardian isn't with the emoji category list anymore
+
 ![](<../../.gitbook/assets/Frame 6 (1).png>)
