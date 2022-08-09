@@ -28,6 +28,7 @@ Information about the blacklist
   * More information about blacklisting the emoji (only if the user selected that)
   * The id of the user who added the emoji to the blacklist
   * The id of the creator of the emoji (only if the user selected that)
+  * If someone tries to add an blacklisted emoji to their server their user id and tag gets send to the server who blacklisted the emoji but only if the server has a log
 
 ### Where is the information stored?
 
