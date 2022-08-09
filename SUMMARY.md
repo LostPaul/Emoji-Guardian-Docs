@@ -8,7 +8,6 @@
 ## Documentation
 
 * [Emoji Guardian's Features](documentation/emoji-guardians-features/README.md)
-  * [Blacklist](documentation/emoji-guardians-features/blacklist.md)
   * [Change the language of the bot](documentation/emoji-guardians-features/change-the-language-of-the-bot.md)
   * [Automatically assing roles to new emojis](documentation/emoji-guardians-features/automatically-assing-roles-to-new-emojis.md)
   * [Customizable emoji list](documentation/emoji-guardians-features/customizable-emoji-list.md)
@@ -21,6 +20,7 @@
   * [Get basic information about Stickers/Emojis](documentation/emoji-guardians-features/get-basic-information-about-stickers-emojis.md)
   * [Create zip file of emojis](documentation/emoji-guardians-features/create-zip-file-of-emojis.md)
   * [Edit/Delete stickers/emojis](documentation/emoji-guardians-features/edit-delete-stickers-emojis.md)
+  * [Blacklist](documentation/emoji-guardians-features/blacklist.md)
 * [Command list](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)
   * [Commands that work with multiple emojis](documentation/commands/commands-that-work-with-multiple-emojis.md)
