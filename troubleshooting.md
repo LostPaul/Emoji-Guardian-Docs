@@ -33,9 +33,9 @@ If want the bot to use external emojis don't do this
 
 ## Slash commands doesn't work
 
-Before reading this make sure that you invited the bot with the scope "aplications.commands" you can check if you see slash commands from others when you type "/".\
+[Before reading this make sure that you invited the bot with the scope "aplications.commands" you can check if you see slash commands from others when you type "/".\
 If you can see the logo from Emoji Guardian you used the right invite.\
-If you didn't you can use the invite [https://discord.com/oauth2/authorize?client\_id=887939311373267005\&permissions=1610612864\&scope=bot%20applications.commands](https://discord.com/oauth2/authorize?client\_id=887939311373267005\&permissions=1610612864\&scope=bot%20applications.commands) you don't need to kick the bot you just need to authorise the bot again with the invite above.
+If you don't click here to invite the bot you don't need to kick the bot you just need to authorise the bot again by clicking here.](https://discord.com/api/oauth2/authorize?client\_id=887939311373267005\&permissions=1610632320\&scope=applications.commands%20bot)
 
 ### Slash commands doesn't show up when I type /
 
