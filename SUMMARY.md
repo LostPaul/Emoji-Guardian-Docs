@@ -21,6 +21,7 @@
   * [Create zip file of emojis](documentation/emoji-guardians-features/create-zip-file-of-emojis.md)
   * [Edit/Delete stickers/emojis](documentation/emoji-guardians-features/edit-delete-stickers-emojis.md)
   * [Blacklist](documentation/emoji-guardians-features/blacklist.md)
+  * [Delete latest created emojis](documentation/emoji-guardians-features/delete-latest-created-emojis.md)
 * [Command list](documentation/commands/README.md)
   * [Single emoji commands](documentation/commands/single-emoji-commands.md)
   * [Commands that work with multiple emojis](documentation/commands/commands-that-work-with-multiple-emojis.md)
