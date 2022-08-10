@@ -75,7 +75,7 @@ Discord currently has a ratelimit of _**50 emoji uploads per hour**_ in each ser
 
 ![](.gitbook/assets/Discord\_V82vnUyABC.png)
 
-#### If you have this issue it's because Emoji Guardian doesn't have the roles that are required to use the emojis
+#### If you have this issue it's because Emoji Guardian doesn't have the roles that are required to use the emojis.&#x20;
 
 #### To resolve this, you have to give Emoji Guardian the roles in order for the emojis to work
 
