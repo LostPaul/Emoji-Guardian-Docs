@@ -13,7 +13,7 @@ Information about the emoji log channel
 * The ids of the servers that have the emoji log enabled
 * The id of the emoji log channel
 
-When you use the auto update for the emoji list command the server id of the current server will be stored also the channel id of current channel and the all the other selected options.
+When you use the auto update option in the emoji list command the server id of the current server will be stored also the channel id of current channel and the all the other selected options.
 
 Information about the blacklist
 
